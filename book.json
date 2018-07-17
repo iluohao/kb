@@ -22,7 +22,7 @@
 
     "pluginsConfig": {
         "sitemap-general": {
-            "prefix": "http://zitiao.org/deploy/"
+            "prefix": "http://iluohao.cn/"
         }
     }
 }
