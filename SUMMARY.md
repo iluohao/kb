@@ -4,10 +4,10 @@
 * [更新文档](update.md)
 * [进阶功能](advanced.md)
 * [关于博客](about.md)
-* [支持](pay/README.md)
-* [关于](pay/about.md)
-* [微博](pay/weibo.md)
-* [独立博客](/pay/hiluohao.md)
+* [支持](/doc/README.md)
+* [关于](/doc/README.md)
+* [微博](/doc/weibo.md)
+* [独立博客](/doc/hiluohao.md)
 
 * [好课1](1.md)
 
