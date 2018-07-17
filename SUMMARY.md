@@ -5,7 +5,7 @@
 * [进阶功能](advanced.md)
 * [关于博客](about.md)
 * [支持](/doc/README.md)
-* [关于](/doc/README.md)
+* [关于](/doc/about.md)
 * [微博](/doc/weibo.md)
 * [独立博客](/doc/hiluohao.md)
 
