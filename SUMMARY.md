@@ -7,7 +7,7 @@
 * [支持](pay/README.md)
 * [关于](pay/about.md)
 * [微博](pay/weibo.md)
-* [我的独立博客](http://iluohao.cn/)
+* [独立博客](/pay/hiluohao.md)
 
 * [好课1](1.md)
 
